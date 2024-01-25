@@ -13,3 +13,14 @@ Feature scaling and transformation may be applied to ensure uniformity in the da
 
 # Feature Selection:
 Selecting relevant features that contribute most to the detection of breast cancer using techniques like feature importance or correlation analysis.
+
+# Model Building:
+Employing machine learning model Support Vector Machines (SVM)
+The model is  trained on a subset of the data.
+
+# Model Evaluation:
+Evaluating model performance using metrics like accuracy, precision, recall, F1-score, and possibly using techniques like cross-validation.
+Assessing the model's ability to generalize to new, unseen data.
+
+# Hyperparameter Tuning:
+Fine-tuning model parameters to optimize performance.
