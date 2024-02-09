@@ -14,8 +14,6 @@ The main objective of this project is to develop a sentiment analysis model capa
 - Machine Learning Model: A machine learning model, such as Support Vector Machine (SVM) or Naive Bayes, is trained on labeled text data to perform sentiment classification.
 - Evaluation: The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score.
 - Deployment: The trained model can be deployed as a web service or integrated into other applications for real-time sentiment analysis.
+- User-friendly Interface: The web application provides an intuitive and user-friendly interface for inputting text data and viewing sentiment analysis results.
 
-
-
-
-
+Real-time Analysis: Users can receive sentiment analysis results in real-time without the need for manual processing.
