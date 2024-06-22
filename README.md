@@ -1,4 +1,4 @@
-This repository contains two machine learning projects: Stock Price Predictor and Breast Cancer Predictor. Each project folder contains the source code, datasets, and documentation related to the respective project.
+This repository contains machine learning projects:  Each project folder contains the source code, datasets, and documentation related to the respective project.
 
 # Table of Contents
 Stock Price Predictor
